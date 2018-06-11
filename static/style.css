@@ -14,6 +14,10 @@ body {
 	color: white !important;
 }
 
+#nav-active {
+	color: #FFDD01 !important;
+}
+
 .nav-link:hover, .navbar-brand:hover {
 	color: #FFDD01 !important;
 }
